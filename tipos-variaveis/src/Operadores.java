@@ -9,6 +9,7 @@ public class Operadores {
       String resultado = a==b ? "verdadeiro" : "falso";
 
       System.out.println(resultado);
+      
 
 
     }
