@@ -1,5 +1,5 @@
 
-public class Operadores {
+public class Ternarios {
   
     public static void main(String[] args) {
       int a, b;
