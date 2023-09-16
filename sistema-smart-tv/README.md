@@ -1,10 +1,10 @@
-## Getting Started
+## Exercício proposto
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
+Vamos criar um exemplo de uma classe para representar uma SmartTV onde:
+Ela tenha as características: ligada (boolean), canal (int) e volume (int);
+Nossa TV poderá ligar e desligar e assim mudar o estado ligada;
+Nossa TV aumentará e diminuirá o volume sempre em +1 ou -1;
+Nossa TV poderá mudar de canal de 1 em 1 ou definindo o número correspondente.
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
